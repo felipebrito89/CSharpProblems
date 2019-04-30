@@ -1,0 +1,10 @@
+E:\Projects\URIJudge\URI_1018\URI_1018\bin\Debug\netcoreapp2.1\URI_1018.deps.json
+E:\Projects\URIJudge\URI_1018\URI_1018\bin\Debug\netcoreapp2.1\URI_1018.runtimeconfig.json
+E:\Projects\URIJudge\URI_1018\URI_1018\bin\Debug\netcoreapp2.1\URI_1018.runtimeconfig.dev.json
+E:\Projects\URIJudge\URI_1018\URI_1018\bin\Debug\netcoreapp2.1\URI_1018.dll
+E:\Projects\URIJudge\URI_1018\URI_1018\bin\Debug\netcoreapp2.1\URI_1018.pdb
+E:\Projects\URIJudge\URI_1018\URI_1018\obj\Debug\netcoreapp2.1\URI_1018.csproj.CoreCompileInputs.cache
+E:\Projects\URIJudge\URI_1018\URI_1018\obj\Debug\netcoreapp2.1\URI_1018.AssemblyInfoInputs.cache
+E:\Projects\URIJudge\URI_1018\URI_1018\obj\Debug\netcoreapp2.1\URI_1018.AssemblyInfo.cs
+E:\Projects\URIJudge\URI_1018\URI_1018\obj\Debug\netcoreapp2.1\URI_1018.dll
+E:\Projects\URIJudge\URI_1018\URI_1018\obj\Debug\netcoreapp2.1\URI_1018.pdb

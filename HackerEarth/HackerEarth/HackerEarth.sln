@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerEarth", "HackerEarth\HackerEarth.csproj", "{21465D5D-FFA8-4118-ADAD-1F07EB2FA5BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21465D5D-FFA8-4118-ADAD-1F07EB2FA5BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21465D5D-FFA8-4118-ADAD-1F07EB2FA5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21465D5D-FFA8-4118-ADAD-1F07EB2FA5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21465D5D-FFA8-4118-ADAD-1F07EB2FA5BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE67E468-4AC0-4236-B7E8-0F983932E49A}
+	EndGlobalSection
+EndGlobal

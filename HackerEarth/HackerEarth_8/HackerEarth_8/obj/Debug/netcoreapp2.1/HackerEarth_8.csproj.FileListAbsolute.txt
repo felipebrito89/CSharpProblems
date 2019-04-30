@@ -1,0 +1,11 @@
+E:\Projects\HackerEarth\HackerEarth_8\HackerEarth_8\bin\Debug\netcoreapp2.1\HackerEarth_8.deps.json
+E:\Projects\HackerEarth\HackerEarth_8\HackerEarth_8\bin\Debug\netcoreapp2.1\HackerEarth_8.runtimeconfig.json
+E:\Projects\HackerEarth\HackerEarth_8\HackerEarth_8\bin\Debug\netcoreapp2.1\HackerEarth_8.runtimeconfig.dev.json
+E:\Projects\HackerEarth\HackerEarth_8\HackerEarth_8\bin\Debug\netcoreapp2.1\HackerEarth_8.dll
+E:\Projects\HackerEarth\HackerEarth_8\HackerEarth_8\bin\Debug\netcoreapp2.1\HackerEarth_8.pdb
+E:\Projects\HackerEarth\HackerEarth_8\HackerEarth_8\obj\Debug\netcoreapp2.1\HackerEarth_8.csprojAssemblyReference.cache
+E:\Projects\HackerEarth\HackerEarth_8\HackerEarth_8\obj\Debug\netcoreapp2.1\HackerEarth_8.csproj.CoreCompileInputs.cache
+E:\Projects\HackerEarth\HackerEarth_8\HackerEarth_8\obj\Debug\netcoreapp2.1\HackerEarth_8.AssemblyInfoInputs.cache
+E:\Projects\HackerEarth\HackerEarth_8\HackerEarth_8\obj\Debug\netcoreapp2.1\HackerEarth_8.AssemblyInfo.cs
+E:\Projects\HackerEarth\HackerEarth_8\HackerEarth_8\obj\Debug\netcoreapp2.1\HackerEarth_8.dll
+E:\Projects\HackerEarth\HackerEarth_8\HackerEarth_8\obj\Debug\netcoreapp2.1\HackerEarth_8.pdb
